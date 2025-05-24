@@ -1,0 +1,43 @@
+{
+      "welcomeTitle": "Welcome to AquaIntelli 👋",
+      "welcomeSubtitle": "Let’s get your account ready!",
+      "welcomeSubtitle2": "This will help us know your farm better.",
+      "locationHeading": "Why is Location Important?",
+      "locationHelpTitle": "Location helps us fetch:",
+      "locationHelpPoints": [
+        "Satellite weather",
+        "Water quality indexes",
+        "Sunlight and rainfall data"
+      ],
+      "locationHelpDesc": "So we can guide your farm with real-time insights!",
+      "sampleLocationTitle": "📍 Sample: If You’re in Coimbatore",
+      "weatherForecast": "☀️ Weather Forecast: Sunny, 35°C",
+      "rainfallForecast": "🌧️ Expected Rainfall: 2.3mm",
+      "waterAdvisory": "💧 Water Advisory: Increase aeration at night please",
+      "form": {
+          "fullNameLabel": "Full Name",
+          "fullNamePlaceholder": "Enter your full name",
+          "emailLabel": "Email",
+          "emailPlaceholder": "you@example.com",
+          "passwordLabel": "Password",
+          "passwordPlaceholder": "Create a password",
+          "locationLabel": "Location (auto-fetched)",
+          "mobileLabel": "Mobile",
+          "mobilePlaceholder": "Enter mobile number",
+          "languageLabel": "Preferred Language",
+          "languageOptions": {
+            "english": "English",
+            "tamil": "தமிழ்",
+            "telugu": "తెలుగు",
+            "hindi": "हिन्दी"
+          },
+          "loginRedirect": "Already have an account? → Login",
+          "continueButton": "Continue →",
+          "errorEmail": "Please enter a valid email address",
+          "errorMobile": "Please enter a valid mobile number",
+          "errorRegister": "Registration failed. Please try again.",
+          "userExistsTitle": "User already exists",
+          "userExistsDesc": "Please login with your existing account."
+     }
+    
+  }

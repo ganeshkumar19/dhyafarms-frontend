@@ -1,0 +1,10 @@
+{
+    "pondsMonitored": "Ponds Monitored",
+    "monitoringType": "with devices or manual",
+    "avgDO": "Avg DO",
+    "acrossAllPonds": "Across all ponds",
+    "avgTemp": "Avg Temp",
+    "measuredLastHour": "Measured last hour",
+    "productivityScore": "Productivity Score",
+    "basedOnWaterQuality": "Based on water quality"
+}

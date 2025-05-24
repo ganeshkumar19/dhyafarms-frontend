@@ -1,0 +1,18 @@
+{
+    "title": "Technical Support",
+    "descriptionLabel": "Description of the Issue",
+    "descriptionPlaceholder": "Describe the issue you're facing...",
+    "screenshotLabel": "Attach Screenshot (optional)",
+    "screenshotPlaceholder": "No file selected",
+    "chooseFile": "Choose File",
+    "severityLabel": "Severity Level",
+    "severity": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High"
+    },
+    "submitButton": "Submit Request",
+    "toastTitle": "Support Request Submitted",
+    "toastDescription": "Our team will get back to you shortly."
+  }
+  

@@ -1,0 +1,12 @@
+{
+    "fishOverview": "मछली अवलोकन",
+   "lastFed": "अंतिम भोजन {{days}} दिन पहले",
+   "lastFedUnavailable": "अंतिम भोजन: अनुपलब्ध",
+    "species": "प्रजाति: {{name}}",
+    "feedToday": "आज का आहार: {{kg}} किग्रा",
+    "fcr": "एफसीआर: {{value}}",
+    "growthRate": "वृद्धि दर: {{value}} ग्राम/दिन",
+    "daysInCycle": "चक्र में दिन: {{days}}",
+    "totalStock": "कुल स्टॉक: {{count}}",
+    "avgWeight": "औसत वजन: {{weight}} ग्राम / मछली"
+  }

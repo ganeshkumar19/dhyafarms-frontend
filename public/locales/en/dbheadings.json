@@ -1,0 +1,8 @@
+{
+    "liveDevices": "Live Devices",
+    "liveDevicesDesc": "Real-time data from your AQIS and Weather Stations",
+    "sensorTrends": "Sensor Trends",
+    "sensorTrendsDesc": "Visualize fluctuations in DO, pH, and Temperature",
+    "recentPondLogs": "Recent Pond Logs",
+    "recentPondLogsDesc": "Daily water checks or manual entries"
+  }

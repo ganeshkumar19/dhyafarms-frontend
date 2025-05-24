@@ -1,0 +1,33 @@
+{
+    "plansAndSubscription": "योजनाएँ और सदस्यता",
+    "basic": "मूल योजना",
+    "free": "निःशुल्क",
+    "basicDescription": "प्रारंभ करने के लिए उपयुक्त योजना। मैनुअल डेटा प्रविष्टि की सुविधा उपलब्ध है।",
+    "basicFeatures": {
+      "farmLimit": "1 फार्म",
+      "deviceLimit": "3 डिवाइस",
+      "dashboard": "मूल डैशबोर्ड",
+      "support": "ईमेल सहायता"
+    },
+    "currentPlan": "वर्तमान योजना",
+  
+    "pro": "पेशेवर योजना",
+    "proPrice": "₹999/माह",
+    "proDescription": "उन्नत सुविधाएँ और वास्तविक समय डिवाइस एकीकरण प्रदान करती है।",
+    "proFeatures": {
+      "farmLimit": "असीमित फार्म",
+      "deviceLimit": "असीमित डिवाइस",
+      "dashboard": "लाइव डैशबोर्ड",
+      "support": "प्राथमिकता सहायता"
+    },
+  
+    "enterprise": "एंटरप्राइज़ योजना",
+    "enterprisePrice": "कस्टम",
+    "enterpriseDescription": "बड़े पैमाने पर संचालन के लिए समर्पित सहायता के साथ एक कस्टम योजना।",
+    "enterpriseFeatures": {
+      "features": "कस्टम सुविधाएँ",
+      "manager": "निजीकृत खाता प्रबंधक",
+      "support": "24/7 सहायता"
+    },
+     "upgrade": "Upgrade"
+  }

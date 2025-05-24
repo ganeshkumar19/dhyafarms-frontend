@@ -1,0 +1,27 @@
+{
+    "solutionsHeading": "Our Solutions",
+    "solutionsSubheading": "Empowering aquaculture with technology — from water quality to profitability.",
+    "solutions": [
+      {
+        "title": "Smart Aquaculture",
+        "description": "Monitor and optimize aquaculture operations with real-time insights into water quality, feeding schedules, and fish health."
+      },
+      {
+        "title": "Water Quality Automation",
+        "description": "Automated sensors and alerts for DO, pH, temperature, and more — ensuring ideal conditions around the clock."
+      },
+      {
+        "title": "IoT Integration",
+        "description": "Deploy solar-powered sensors and devices that send data to the cloud or your local hub securely over MQTT."
+      },
+      {
+        "title": "Analytics Dashboard",
+        "description": "Make informed decisions with historical trends, AI-driven predictions, and anomaly detection."
+      },
+      {
+        "title": "Cost Optimization",
+        "description": "Reduce energy, feed, and labor costs by automating tasks and leveraging actionable recommendations."
+      }
+    ]
+  }
+  

@@ -1,0 +1,8 @@
+{
+    "liveDevices": "सक्रिय उपकरण",
+    "liveDevicesDesc": "आपके AQIS और मौसम स्टेशनों से वास्तविक समय डेटा",
+    "sensorTrends": "सेंसर प्रवृत्तियाँ",
+    "sensorTrendsDesc": "डीओ, पीएच और तापमान में उतार-चढ़ाव को देखें",
+    "recentPondLogs": "हालिया तालाब लॉग्स",
+    "recentPondLogsDesc": "दैनिक जल जांच या मैन्युअल प्रविष्टियाँ"
+  }

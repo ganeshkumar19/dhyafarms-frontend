@@ -1,0 +1,17 @@
+{
+    "title": "Support Request",
+    "selectFarm": "Select Farm",
+    "farmPlaceholder": "Select farm",
+    "selectPond": "Select Pond",
+    "pondPlaceholder": "Select pond",
+    "deviceType": "Device Type",
+    "noDevice": "No device linked",
+    "location": "Enter Your Location",
+    "locationPlaceholder": "Enter Location",
+    "describeIssue": "Describe your issue",
+    "issuePlaceholder": "Briefly explain your problem...",
+    "submitBtn": "Submit Request",
+    "screenshotLabel": "Attach Screenshot (optional)",
+    "screenshotPlaceholder": "No file selected",
+    "chooseFile": "Choose File"
+}

@@ -1,0 +1,13 @@
+{
+    "title": "Manual Sensor Data Entry",
+    "selectPond": "Select Pond",
+    "selectPondPlaceholder": "-- Select Pond --",
+    "selectType": "Select Data Type",
+    "selectTypePlaceholder": "-- Select Type --",
+    "water": "Water",
+    "fish": "Fish",
+    "submit": "Submit Entry",
+    "toastAdded": "Manual entry added!",
+    "toastError": "Error adding manual entry!",
+    "toastFillFields": "Please fill all fields!"
+}

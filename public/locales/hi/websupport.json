@@ -1,0 +1,17 @@
+{
+    "title": "तकनीकी सहायता",
+    "descriptionLabel": "समस्या का विवरण",
+    "descriptionPlaceholder": "कृपया उस समस्या का विवरण दें जिसका आप सामना कर रहे हैं...",
+    "screenshotLabel": "स्क्रीनशॉट जोड़ें (वैकल्पिक)",
+    "screenshotPlaceholder": "कोई फ़ाइल चयनित नहीं है",
+    "chooseFile": "फ़ाइल चुनें",
+    "severityLabel": "गंभीरता स्तर",
+    "severity": {
+      "low": "कम",
+      "medium": "मध्यम",
+      "high": "उच्च"
+    },
+    "submitButton": "अनुरोध सबमिट करें",
+    "toastTitle": "सहायता अनुरोध सबमिट किया गया",
+    "toastDescription": "हमारी टीम जल्द ही आपसे संपर्क करेगी।"
+  }

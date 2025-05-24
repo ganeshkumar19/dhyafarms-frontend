@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dhya AquaIntelli</title>
+
+    <!-- SEO & Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet" />
+    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <meta name="theme-color" content="#ffffff" />
+    <meta name="description" content="Monitor and manage smart aquaculture ponds" />
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  </head>
+
+  <body>
+    <div id="root"></div>
+
+    <!-- Theme Light -->
+    <script>
+      document.documentElement.setAttribute("data-theme", "light");
+    </script>
+
+    <!-- OTP Widget Config -->
+    <script type="text/javascript">
+      window.configuration = {
+        widgetId: "35644365426f373333333533",  
+        tokenAuth: "448881Tt9jDooUz68105ddbP1", 
+        exposeMethods: true,
+        success: (data) => { console.log('OTP verified', data); },
+        failure: (error) => { console.error('OTP failure', error); },
+      };
+    </script>
+
+    <!-- MSG91 OTP Provider + Init -->
+    <script 
+      src="https://verify.msg91.com/otp-provider.js" 
+      onload="initSendOTP(window.configuration)"
+    ></script>
+
+    <!-- Vite App -->
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

@@ -1,0 +1,13 @@
+{
+    "myFarms": "My Farms",
+    "loading": "Loading...",
+    "errorFetchingFarms": "Failed to fetch farms",
+    "location": "Location",
+    "size": "Size",
+    "type": "Type",
+    "waterSource": "Water Source",
+    "createdAt": "Created At",
+    "viewPonds": "View Ponds",
+    "notAvailable": "N/A"
+  }
+  

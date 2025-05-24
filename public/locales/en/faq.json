@@ -1,0 +1,36 @@
+{
+    "title": "Frequently Asked Questions",
+    "submitTitle": "Didn’t find what you were looking for?",
+    "placeholder": "Ask your question...",
+    "submitButton": "Submit Question",
+    "toastEmpty": "Please enter your question",
+    "toastSuccessTitle": "Question Submitted",
+    "toastSuccessDesc": "Thank you! We will review and add an answer soon.",
+    "questions": [
+      {
+        "question": "How do I add a new farm to my account?",
+        "answer": "Go to the dashboard, click on \"Add Farm\", and fill out the required farm details including location, pond count, and device linkage."
+      },
+      {
+        "question": "What types of devices can I link to a pond?",
+        "answer": "Currently, you can link Sensors, Cameras, and Feeders. Each pond can have one or more of these device types."
+      },
+      {
+        "question": "How frequently is sensor data updated?",
+        "answer": "Sensor data is updated every 10 minutes and can be viewed live in the monitoring dashboard."
+      },
+      {
+        "question": "Can I control feeding schedules from the app?",
+        "answer": "Yes, go to the \"Feeding Control\" section, select your pond, and set or automate feeding times."
+      },
+      {
+        "question": "I’m not receiving any data from a device. What should I do?",
+        "answer": "Check device connectivity, ensure it’s powered on, and restart it. If the issue persists, raise a support ticket via the Support page."
+      },
+      {
+        "question": "How can I change my registered phone number?",
+        "answer": "Visit the Profile page and click on \"Edit Profile\" to update your contact information."
+      }
+    ]
+  }
+  

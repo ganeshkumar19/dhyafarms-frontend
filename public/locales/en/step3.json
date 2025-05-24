@@ -1,0 +1,45 @@
+{
+    "title": "Add Your Ponds/Tanks",
+    "subtitle": "Group your operations by ponds. You can add devices or use manual tracking.",
+  "insights": {
+    "whyTitle": "Why Ponds/Tanks Matter?",
+    "whyDesc": "Tracking pond-wise/tank-wise helps us give you more accurate water quality, feed suggestions, and disease predictions.",
+    "noPondsAdded": "No ponds added yet. Add a pond to see a summary here.",
+    "pond": "Pond",
+    "size": "Size",
+    "stockingDensity": "Stocking Density",
+    "species": "Species",
+    "monitoringDevices": "Monitoring Devices",
+    "manualEntry": "Manual Data Entry: Enabled"
+  },
+  "form": {
+      "pondName": "Pond Name",
+      "pondNamePlaceholder": "e.g., Grow-Out 1",
+      "pondSize": "Pond Size",
+      "pondSizePlaceholder": "Select size",
+      "stockingDensity": "Stocking Density",
+      "stockingDensityPlaceholder": "e.g., 4000 fish/acre",
+      "species": "Type of Species",
+      "speciesPlaceholder": "Select species",
+      "monitoring": "Monitoring Preference",
+      "monitoringSensor": "I have a sensor device to link",
+      "monitoringManual": "I’ll enter data manually",
+      "addDevice": "Add Device ID",
+      "deviceIdPlaceholder": "e.g., \"AQIS001\"",
+      "addDeviceBtn": "Add",
+      "savePond": "+ Save and add pond",
+      "skip": "Skip and add later.!",
+      "continue": "Continue →",
+      "loadingPondSizes": "Loading pond sizes...",
+      "failedPondSizes": "Failed to load pond sizes",
+      "loadingSpecies": "Loading species list...",
+      "failedSpecies": "Failed to load species list",
+      "requiredFieldsWarning": "Please fill all required fields.",
+      "farmNotFound": "Farm not found",
+      "farmNotFoundDesc": "Unable to find the associated farm. Please restart onboarding.",
+      "pondAdded": "Pond added successfully!",
+      "savedLocally": "Saved locally",
+      "savedLocallyDesc": "We couldn’t sync with the server now. You can retry later."
+    }
+  }
+  

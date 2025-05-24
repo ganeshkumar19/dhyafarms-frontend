@@ -1,0 +1,17 @@
+{
+  "accountSettings": "खाता सेटिंग्स",
+  "name": "नाम",
+  "email": "ईमेल",
+  "tenantId": "किरायेदार / फ़ार्म आईडी",
+  "deleteAccount": "खाता हटाएं (जल्द आ रहा है)",
+  "userSettings": "उपयोगकर्ता सेटिंग्स",
+  "preferences": "पसंद",
+  "notifications": "सूचनाएं",
+  "billing": "बिलिंग",
+  "appPreferences": "ऐप की प्राथमिकताएँ",
+  "theme": "थीम",
+  "language": "भाषा",
+  "notificationsAndAlerts": "अधिसूचनाएँ और अलर्ट",
+  "emailNotifications": "ईमेल अधिसूचनाएँ",
+  "receiveImportantAlerts": "महत्वपूर्ण अलर्ट और अपडेट्स ईमेल के माध्यम से प्राप्त करें"
+}

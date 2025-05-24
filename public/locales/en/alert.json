@@ -1,0 +1,11 @@
+{
+    "heading": "Alerts & Notifications",
+    "noAlerts": "No active alerts found.",
+    "fetchError": "Failed to fetch alerts.",
+    "device": "Device",
+    "farmNotifications": "Farm Notifications",
+    "userNotifications": "User Notifications",
+    "noFarmAlerts": "No farm notifications found.",
+    "noUserAlerts": "No user notifications found."
+}
+  

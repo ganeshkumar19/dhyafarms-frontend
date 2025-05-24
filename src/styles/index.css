@@ -1,0 +1,9 @@
+
+  
+.alert-swiper .swiper-pagination {
+    margin-top: 16px; /* Space between cards and dots */
+    position: relative; /* Allow control inside layout flow */
+    bottom: 30px !important; /* Override default Swiper positioning */
+    text-align: center;
+}
+  

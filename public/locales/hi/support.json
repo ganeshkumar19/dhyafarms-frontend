@@ -1,0 +1,17 @@
+{
+    "title": "सहायता अनुरोध",
+    "selectFarm": "फ़ार्म चुनें",
+    "farmPlaceholder": "फ़ार्म चुनें",
+    "selectPond": "तालाब चुनें",
+    "pondPlaceholder": "तालाब चुनें",
+    "deviceType": "डिवाइस प्रकार",
+    "noDevice": "कोई डिवाइस लिंक नहीं है",
+    "location": "अपना स्थान दर्ज करें",
+    "locationPlaceholder": "स्थान दर्ज करें",
+    "describeIssue": "अपनी समस्या का विवरण दें",
+    "issuePlaceholder": "संक्षेप में अपनी समस्या बताएं...",
+    "submitBtn": "अनुरोध भेजें",
+    "screenshotLabel": "स्क्रीनशॉट जोड़ें (वैकल्पिक)",
+    "screenshotPlaceholder": "कोई फ़ाइल चयनित नहीं है",
+    "chooseFile": "फ़ाइल चुनें"
+}

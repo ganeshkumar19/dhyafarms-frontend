@@ -1,0 +1,35 @@
+{
+    "plansAndSubscription": "Plans & Subscription",
+    "basic": "Basic",
+    "free": "Free",
+    "basicDescription": "Great for getting started. Manual data entry supported.",
+    "basicFeatures": {
+      "farmLimit": "1 Farm",
+      "deviceLimit": "3 Devices",
+      "dashboard": "Basic Dashboard",
+      "support": "Email Support"
+    },
+    "currentPlan": "Current Plan",
+  
+    "pro": "Pro",
+    "proPrice": "₹999/month",
+    "proDescription": "Advanced features and real-time device integration.",
+    "proFeatures": {
+      "farmLimit": "Unlimited Farms",
+      "deviceLimit": "Unlimited Devices",
+      "dashboard": "Live Dashboard",
+      "support": "Priority Support"
+    },
+  
+    "enterprise": "Enterprise",
+    "enterprisePrice": "Custom",
+    "enterpriseDescription": "For large operations with dedicated support.",
+    "enterpriseFeatures": {
+      "features": "Custom Features",
+      "manager": "Dedicated Account Manager",
+      "support": "24/7 Support"
+    },
+  
+    "upgrade": "Upgrade"
+  }
+  

@@ -1,0 +1,16 @@
+{
+    "pondLogs": "Pond Logs",
+    "time": "Time",
+    "type": "Type",
+    "details": "Details",
+    "alert": "⚠️ Alert",
+    "manual": "✍️ Manual",
+    "sensor": "🔍 Sensor",
+    "today": "Today",
+    "last7Days": "Last 7 Days",
+    "custom": "Custom",
+    "noLogs": "No logs found for this pond.",
+    "selectPond": "Select Pond",
+    "noNewLogs": "No new logs found.",
+    "noLogsFound": "No logs found."
+  }

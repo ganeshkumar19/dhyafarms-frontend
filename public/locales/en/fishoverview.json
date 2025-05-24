@@ -1,0 +1,13 @@
+{
+    "fishOverview": "Fish Overview",
+    "lastFed": "Last Fed {{days}} days ago",
+    "lastFedUnavailable": "Last Fed: N/A",
+    "species": "Species: {{name}}",
+    "feedToday": "Feed Today: {{kg}} kg",
+    "fcr": "FCR: {{value}}",
+    "growthRate": "Growth Rate: {{value}} g/day",
+    "daysInCycle": "Days in Cycle: {{days}}",
+    "totalStock": "Total Stock: {{count}}",
+    "avgWeight": "Avg. Weight: {{weight}}g / Fish"
+}
+  

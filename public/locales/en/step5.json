@@ -1,0 +1,48 @@
+{
+    "getStarted": {
+      "title": "🎉 You’re ready!",
+      "description": "You’ve taken the first step toward better farming decisions. Let’s show you how you can get even more out of AquaIntelli.",
+      "cta": "Enter My Dashboard",
+      "toastTitle": "Welcome to your Dashboard!"
+    },
+  
+    "checklist": {
+      "heading": "Checklist Summary",
+      "registeredAs": "Registered as",
+      "location": "Location",
+      "farms": "Farms",
+      "ponds": "Ponds",
+      "pondSingular": "pond",
+      "pondPlural": "ponds",
+      "devicesLinked": "Devices Linked",
+      "deviceSingular": "device",
+      "devicePlural": "devices",
+      "manualEntry": "Manual Entry",
+      "enabled": "Enabled",
+      "disabled": "Disabled"
+    },
+  
+        "insights": {
+          "free": {
+            "title": "✅ You're on the Free Plan",
+            "entry": "Manual Data Entry",
+            "limit": "1 Farm + 2 Ponds",
+            "email": "Weekly Insight Emails"
+          },
+          "premium": {
+            "title": "🏆 Upgrade to Premium – ₹999/year",
+            "note": "You're currently on the Free Plan. Upgrade anytime to unlock advanced tools.",
+            "quote": "🌾 “Farmers using real-time data saw a 20% boost in productivity.”",
+            "cta": "Upgrade Now →"
+          },
+          "features": {
+            "sync": "Real-Time Sensor Sync",
+            "alerts": "Advanced Alerts via SMS/WhatsApp",
+            "weather": "Daily Weather Forecasts",
+            "reports": "Personalized WhatsApp Reports",
+            "tips": "AI-Based Crop Health Tips"
+          }
+        }
+      }
+      
+  

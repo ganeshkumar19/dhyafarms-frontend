@@ -1,0 +1,17 @@
+{
+  "accountSettings": "Account Settings",
+  "name": "Name",
+  "email": "Email",
+  "tenantId": "Tenant / Farm ID",
+  "deleteAccount": "Delete Account (Coming Soon)",
+  "userSettings": "User Settings",
+  "preferences": "Preferences",
+  "notifications": "Notifications",
+  "billing": "Billing",
+  "appPreferences": "App Preferences",
+  "theme": "Theme",
+  "language": "Language",
+  "notificationsAndAlerts": "Notifications & Alerts",
+  "emailNotifications": "Email Notifications",
+  "receiveImportantAlerts": "Receive important alerts and updates via email"
+}

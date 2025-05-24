@@ -1,0 +1,11 @@
+{
+    "heading": "📉 Sensor Trend Chart",
+    "download": "Download Chart",
+    "select": {
+      "do": "Dissolved Oxygen (mg/L)",
+      "temp": "Water Temperature (°C)",
+      "ph": "pH Level"
+    },
+    "xAxis": "Time"
+  }
+  

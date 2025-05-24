@@ -1,0 +1,44 @@
+{
+  "setupFarmTitle": "Setup Your Farm",
+  "setupFarmSubtitle": "This will help us group your ponds and devices in one place.",
+  "farmInfoHeading": "Why Farm Info is Important?",
+  "farmInfoDesc": "This helps us personalize your dashboard using environmental, satellite, and seasonal data. Accurate farm data = Better insights for your ponds.",
+  "farmInfoTitle": "📝 Your Farm Info",
+  "farmName": "🏷️ Farm Name",
+  "farmLocation": "📍 Location",
+  "farmType": "🌾 Farm Type",
+  "waterSource": "🚿 Water Source",
+  "farmSize": "📐 Farm Size",
+  "form":{
+    "farmName": "🏷️ Farm Name",
+    "farmNamePlaceholder": "e.g. \"Green Water Fish Farm\"",
+    "addFarm": "➕ Add New Farm",
+    "cancel": "Cancel",
+    "submit": "Add",
+    "farmSize": "📐 Farm Size",
+    "selectSize": "Select size",
+    "loadingFarmSizes": "Loading farm sizes...",
+    "errorFarmSizes": "Failed to load farm sizes",
+
+    "farmType": "🌾 Farm Type",
+    "selectType": "Select type",
+    "loadingFarmTypes": "Loading farm types...",
+    "errorFarmTypes": "Failed to load farm types",
+
+    "waterSource": "🚿 Water Source",
+    "selectWaterSource": "Select source",
+    "loadingWaterSources": "Loading water sources...",
+    "errorWaterSources": "Failed to load water sources",
+
+    "notes": "🗒️ Notes (optional)",
+    "notesPlaceholder": "Any additional info...",
+
+    "devices": "📟 Available Devices (optional)",
+    "devicePlaceholder": "Enter device ID e.g. \"WS001\"",
+    "addDevice": "Add Device",
+    "deviceList": "Devices",
+
+    "skip": "Skip and add later!",
+    "continue": "Continue →"
+  }
+}

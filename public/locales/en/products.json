@@ -1,0 +1,27 @@
+{
+    "title": "Our Products",
+    "subtitle": "Explore the tools and technology we’ve built to make aquaculture smarter, sustainable, and scalable.",
+    "products": {
+      "dashboard": {
+        "name": "AquaIntelli Dashboard",
+        "description": "A powerful web dashboard to monitor, control, and gain insights into your aquaculture operations.",
+        "cta": "Visit Dashboard"
+      },
+      "sensor": {
+        "name": "FishSense Pro (IoT Sensor)",
+        "description": "Solar-powered smart sensor for real-time monitoring of DO, pH, temperature, and more.",
+        "cta": "Learn More"
+      },
+      "gateway": {
+        "name": "AquaHub Edge Gateway",
+        "description": "A local hub that connects IoT devices to the cloud or offline dashboard via MQTT.",
+        "cta": "See Integration"
+      },
+      "analytics": {
+        "name": "Predictive Analytics",
+        "description": "ML-powered models that help predict water quality trends, feed efficiency, and fish health risk.",
+        "cta": "See Insights"
+      }
+    }
+  }
+  
